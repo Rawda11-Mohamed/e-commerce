@@ -1,0 +1,52 @@
+name: stylish_app
+description: A fully functional e-commerce app based on design mockups.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Responsive Design
+  flutter_screenutil: ^5.9.0
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  carousel_slider: ^5.1.1
+  cached_network_image: ^3.2.3
+  smooth_page_indicator: ^1.1.0
+
+  cupertino_icons: ^1.0.2
+
+  # State Management
+  flutter_bloc: ^8.1.3
+
+  # Networking
+  dio: ^5.4.0
+
+  # Service Locator for Dependency Injection
+  get_it: ^7.6.4
+
+  # Functional Programming (for Either)
+  dartz: ^0.10.1
+
+  # Local Storage
+  shared_preferences: ^2.2.2
+
+  # Image Picking
+  image_picker: ^1.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # IMPORTANT: Create these folders in your project root and add your assets
+  assets:
+    - assets/images/
+    - assets/icons/
