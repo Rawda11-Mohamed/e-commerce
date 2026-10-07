@@ -453,5 +453,4 @@ This project demonstrates practical experience with:
 ```
 
 
-ده في رأيي أنسب من الـ README القديم: شكله Professional، فيه الـ screenshots، ومش محمّل بتفاصيل زيادة مالهاش لازمة.
 ```
