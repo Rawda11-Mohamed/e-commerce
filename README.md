@@ -349,15 +349,11 @@ The following screenshots demonstrate the application's interface and different 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e9ea82c7-a9e8-4db6-8f4c-d16f66d17a72" width="23%" />
-  <img src="https://github.com/user-attachments/assets/66af987d-c865-47be-988e-9a41f3db052f" width="23%" />
-  <img src="https://github.com/user-attachments/assets/553952f1-1a8d-48db-b731-af2555488c81" width="23%" />
-  <img src="https://github.com/user-attachments/assets/6cb0e75c-1ffe-477a-b53c-1da8843d069a" width="23%" />
+ 
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f834621b-5327-480c-9b8b-0746b16c7014" width="23%" />
-  <img src="https://github.com/user-attachments/assets/4a6eafb4-d691-48b1-abc4-3085a1120ac9" width="23%" />
-  <img src="https://github.com/user-attachments/assets/37e37195-6870-4713-98d5-2eeb6972ce0e" width="23%" />
+ 
       <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/0e57dbb7-eb52-410a-9268-e7334e2792be" />
 
 
