@@ -349,20 +349,16 @@ The following screenshots demonstrate the application's interface and different 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e9ea82c7-a9e8-4db6-8f4c-d16f66d17a72" width="23%" />
-  <img width="459" height="1024" alt="image" src="https://github.com/user-attachments/assets/e63c124b-ae0b-40be-8ca3-9eb0382c022c" />
-<img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ddadc70-6ed4-465c-aac8-15b5db6b402f" />
-
- <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/82f94502-8f37-4d7c-8b08-84576599d609" />
-<img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/3467a570-c5e0-4325-ad29-99e3364d52f6" />
-
+  <img src="https://github.com/user-attachments/assets/e63c124b-ae0b-40be-8ca3-9eb0382c022c" width="23%" />
+  <img src="https://github.com/user-attachments/assets/8ddadc70-6ed4-465c-aac8-15b5db6b402f" width="23%" />
+  <img src="https://github.com/user-attachments/assets/82f94502-8f37-4d7c-8b08-84576599d609" width="23%" />
 </p>
 
 <p align="center">
- 
-      <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/0e57dbb7-eb52-410a-9268-e7334e2792be" />
-
-
+  <img src="https://github.com/user-attachments/assets/3467a570-c5e0-4325-ad29-99e3364d52f6" width="23%" />
+  <img src="https://github.com/user-attachments/assets/0e57dbb7-eb52-410a-9268-e7334e2792be" width="23%" />
 </p>
+
 
 ## Installation & Setup
 
